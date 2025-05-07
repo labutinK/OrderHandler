@@ -11,5 +11,5 @@
 
 <h4>Для Oko</h4>
 <ul>
-  <li>UF_OKOCRM_TOKEN - токен/li>
+  <li>UF_OKOCRM_TOKEN - токен</li>
 </ul>
