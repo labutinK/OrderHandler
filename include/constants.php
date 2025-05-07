@@ -1,0 +1,3 @@
+<?php
+define('CATALOG_PRODUCTS_IBLOCK_ID', 2);
+define('CATALOG_OFFERS_IBLOCK_ID', 4);
